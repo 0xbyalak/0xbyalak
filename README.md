@@ -69,16 +69,6 @@ From securing systems to breaking them (ethically), I love exploring both sides 
 
 ###
 
-<h3 align="left">My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=davidmuhaimin&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidmuhaimin/davidmuhaimin/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davidmuhaimin/davidmuhaimin/output/pacman-contribution-graph.svg">
