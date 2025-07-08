@@ -76,9 +76,11 @@ From securing systems to breaking them (ethically), I love exploring both sides 
 </picture>
 
 ###
-
+<!--
 <div align="center">
   <img src="https://profile-counter.glitch.me/davidmuhaimin/count.svg?"  />
 </div>
 
 ###
+
+-->
