@@ -1,4 +1,4 @@
-![banner](img/banner.png)
+<img width="2520" height="690" alt="github-header-banner" src="https://github.com/user-attachments/assets/71e9450a-1614-444e-897e-3ca0f14d06b1" />
 ## About Me
 
 Hi, I’m **David Muhaimin** — a passionate learner in the world of **Cyber Security**.  
