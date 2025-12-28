@@ -1,7 +1,8 @@
-<img width="2520" height="690" alt="github-header-banner" src="https://github.com/user-attachments/assets/71e9450a-1614-444e-897e-3ca0f14d06b1" />
-## About Me
+<img width="2520" height="690" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/c718adaf-38f1-4b4e-9d6d-eeba37f1813b" />
 
-Hi, I’m **David Muhaimin** — a passionate learner in the world of **Cyber Security**.  
+## About Me 
+
+I’m a passionate learner in the world of **Cyber Security**.  
 Currently sharpening my skills through personal projects, bootcamps, and certifications.  
 From securing systems to breaking them (ethically), I love exploring both sides of the digital battlefield.
 
